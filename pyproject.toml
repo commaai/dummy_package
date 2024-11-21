@@ -1,0 +1,9 @@
+[project]
+name = "dummy_package"
+version = "0.0.1"
+dependencies = []
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
